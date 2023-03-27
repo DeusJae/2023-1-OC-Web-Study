@@ -71,4 +71,5 @@ pull과 fetch를 설명하기 위해 상황을 가정하여 보자
 B 가 fetch를 했다면 원격저장소에서 업데이트된 소스를 B 로컬 저장소로 가져와 branch를 하나 더 추가하여 관리된다.
 
 ---
-즉 pull은 merge까지 해주나 fetch는 merge해주지 않는 차이점이 있다.
+즉 pull은 merge까지 해주나 fetch는 merge해주지 않는 차이점이 있다. 
+---
